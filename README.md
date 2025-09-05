@@ -1,4 +1,6 @@
-# 📱 React Native GraphQL App
+# 📱 React Native GraphQL APP
+
+RICK AND MORTY TWO PAGE APP THAT SHOWS YOU ALL THE CHARATERS AND THE DETAILS OF EACH CHARATERS
 
 A React Native app built with **Expo**, **Apollo Client**, **GraphQL**, and **React Navigation**.  
 It allows users to browse characters and episodes from a GraphQL API, with smooth navigation between list and detail views.
