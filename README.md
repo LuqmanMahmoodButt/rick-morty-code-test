@@ -193,6 +193,6 @@ src/
 - **React Native Expo**: Add a splash screen for better user experience during app loading.
 - **Cross-platform testing**: Ensure the app is tested on both iOS and Android for consistent behavior.
 - **EAS Build & TestFlight**: Use [EAS Build] to generate builds and submit to TestFlight for real user testing (not required for this code test, but useful in production).
-**Simple local GraphQL + PostgreSQL DB**: To add a tiny local backend: a small PostgreSQL DB plus a basic Node/Apollo GraphQL server exposing the same fields, seeded once from the public API and used in dev. This keeps the UI the same while I practice GraphQL resolvers and simple DB reads/writes.
+- **Simple local GraphQL + PostgreSQL DB**: To add a tiny local backend: a small PostgreSQL DB plus a basic Node/Apollo GraphQL server exposing the same fields, seeded once from the public API and used in dev. This keeps the UI the same while I practice GraphQL resolvers and simple DB reads/writes.
 
 
