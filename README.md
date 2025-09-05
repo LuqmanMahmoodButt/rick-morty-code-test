@@ -1,11 +1,12 @@
 # 📱 Rick and Morty App
 
 A simple React Native app that shows all Rick and Morty characters and their details using GraphQL!
-
+<p float="left"> 
 <img src="./assets/screenshots/screenshot-2.png" alt="Screenshot" width="200"/>
 <img src="./assets/screenshots/screenshot-3.png" alt="Screenshot" width="200"/>
 <img src="./assets/screenshots/screenshot-1.png" alt="Screenshot" width="200"/>
 <img src="./assets/screenshots/screenshot-4.png" alt="Screenshot" width="200"/>
+</p>
 
 ## 🚀 What it does
 - Browse all Rick and Morty characters
